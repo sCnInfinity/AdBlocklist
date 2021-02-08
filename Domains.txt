@@ -26,3 +26,11 @@ r1---sn-4g5e6nl6.googlevideo.com
 r3---sn-4g5e6nsd.googlevideo.com
 r5---sn-4g5ednek.googlevideo.com
 r2---sn-4g5ednly.googlevideo.com
+r5---sn-4g5edned.googlevideo.com
+r2---sn-4g5e6nzs.googlevideo.com
+r5---sn-4g5ednly.googlevideo.com
+r3---sn-4g5e6nzz.googlevideo.com
+r3---sn-4g5e6nsd.googlevideo.com
+r3---sn-4g5ednsl.googlevideo.com
+r5---sn-4g5ednee.googlevideo.com
+r3---sn-4g5e6nsr.googlevideo.com
